@@ -42,6 +42,8 @@ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:.
 ```bash
 ./main
 ```
+![image](https://github.com/user-attachments/assets/67cec968-6801-430a-8861-0ae1bbfbd2c4)
+
 ## Описание
 #### testfunc.cpp
 Файл testfunc.cpp содержит реализацию функции TestHello, которая использует библиотеку GTK+ для отображения диалогового окна с сообщением.
@@ -84,6 +86,7 @@ int main() {
     return 0;
 }
 ```
-![image](https://github.com/user-attachments/assets/67cec968-6801-430a-8861-0ae1bbfbd2c4)
+
+
 
 
