@@ -84,4 +84,6 @@ int main() {
     return 0;
 }
 ```
+![image](https://github.com/user-attachments/assets/67cec968-6801-430a-8861-0ae1bbfbd2c4)
+
 
